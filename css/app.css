@@ -1,0 +1,10 @@
+body{
+	display: block;
+	
+}
+
+.container {
+	background: url('../images/iu.jpeg') no-repeat;
+	width: 100vw;
+	height: 100vh;
+}

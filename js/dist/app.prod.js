@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){var c=1;$(".container").on("click",function(){console.log("i am clicked!"),$(".container *").animate({opacity:0==c?1:0}),c=0==c?1:0})});

@@ -1,0 +1,22 @@
+{
+  "name": "kristijan-school",
+  "homepage": "https://github.com/designbyheart/kristijan-school",
+  "authors": [
+    "Pedja Jevtic <p.jevtic@nebitnebit.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "^1.12.1",
+    "jquery": "^3.5.1",
+    "camera": "*"
+  }
+}
